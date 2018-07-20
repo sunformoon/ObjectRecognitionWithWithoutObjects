@@ -1,4 +1,4 @@
-% This is the MATLAB code for genererate the foreground and backgrounds images on the training and val set of ImageNet 2012.
+% This is the MATLAB code to generate the foreground and backgrounds images on the training and val set of ImageNet 2012.
 % Reference paper: Object Recognition with and without Objects (https://arxiv.org/abs/1611.06596).
 % INPUT_PATH: the directory that contains all the 1000 folders of training images, where each folder is for one class.
 % OUTPUT_PATH: the directory to save the cropped foreground or background images.
