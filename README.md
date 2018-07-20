@@ -15,10 +15,10 @@ Brief descriptions here, while detailed comments are available inside the code.
 
 If you find this code useful for your research, please consider citing this paper via the .bibtex.
 
-@inproceedings{zhu2017object,
-  title={Object Reconition with and without Objects},
-  author={Zhu, Zhuotun and Xie, Lingxi and Yuille, Alan},
-  booktitle={IJCAI},
-  year={2017}
+@inproceedings{zhu2017object,<br />
+  title={Object Reconition with and without Objects},<br />
+  author={Zhu, Zhuotun and Xie, Lingxi and Yuille, Alan},<br />
+  booktitle={IJCAI},<br />
+  year={2017}<br />
 }
 
